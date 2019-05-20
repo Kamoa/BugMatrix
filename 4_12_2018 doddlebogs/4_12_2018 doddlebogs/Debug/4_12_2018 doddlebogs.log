@@ -1,0 +1,11 @@
+﻿  driver.cpp
+c:\users\tommy\desktop\4_12_2018 doddlebogs\4_12_2018 doddlebogs\bugs.h(53): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\tommy\desktop\4_12_2018 doddlebogs\4_12_2018 doddlebogs\bugs.h(103): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\tommy\desktop\4_12_2018 doddlebogs\4_12_2018 doddlebogs\bugs.h(130): warning C4154: deletion of an array expression; conversion to pointer supplied
+c:\users\tommy\desktop\4_12_2018 doddlebogs\4_12_2018 doddlebogs\bugs.h(161): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\tommy\desktop\4_12_2018 doddlebogs\4_12_2018 doddlebogs\bugs.h(180): warning C4154: deletion of an array expression; conversion to pointer supplied
+c:\users\tommy\desktop\4_12_2018 doddlebogs\4_12_2018 doddlebogs\bugs.h(204): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\tommy\desktop\4_12_2018 doddlebogs\4_12_2018 doddlebogs\bugs.h(223): warning C4154: deletion of an array expression; conversion to pointer supplied
+c:\users\tommy\desktop\4_12_2018 doddlebogs\4_12_2018 doddlebogs\bugs.h(228): warning C4154: deletion of an array expression; conversion to pointer supplied
+  4_12_2018 doddlebogs.vcxproj -> C:\Users\Tommy\Desktop\4_12_2018 doddlebogs\Debug\4_12_2018 doddlebogs.exe
+  4_12_2018 doddlebogs.vcxproj -> C:\Users\Tommy\Desktop\4_12_2018 doddlebogs\Debug\4_12_2018 doddlebogs.pdb (Full PDB)
